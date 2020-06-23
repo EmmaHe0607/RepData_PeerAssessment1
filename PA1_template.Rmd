@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# 1. Loading and preprocessing the data
+# 1. Loading the data
 ```{r, echo=TRUE}
 
 fileurl = 'https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip'

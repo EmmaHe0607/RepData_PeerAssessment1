@@ -9,7 +9,7 @@ output:
 
 
 
-# 1. Loading and preprocessing the data
+# 1. Loading the data
 
 ```r
 fileurl = 'https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip'
